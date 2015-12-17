@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cf.charleseugeneloubao.materialcolors">
+    package="package io.github.charly1811.materialcolors">
 
     <application android:allowBackup="true">
 

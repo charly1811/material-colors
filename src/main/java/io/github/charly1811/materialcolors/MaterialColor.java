@@ -1,4 +1,4 @@
-package cf.charleseugeneloubao.materialcolors;
+package io.github.charly1811.materialcolors;
 
 /**
  * Copyright 2015 Charles-Eugene Loubao

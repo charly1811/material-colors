@@ -1,4 +1,4 @@
-package cf.charleseugeneloubao.materialcolors;
+package io.github.charly1811.materialcolors;
 
 import android.content.Context;
 
@@ -13,8 +13,6 @@ import cf.charleseugeneloubao.materialcolors.R;
 public class MaterialColorRandom {
 
     private Random random = new Random();
-
-    private int[] allColors;
 
     private int[] primaryColors;
     private int[] darkColors;

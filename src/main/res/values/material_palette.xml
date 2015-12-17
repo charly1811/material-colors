@@ -2,25 +2,25 @@
 <resources>
 
     <integer-array name="primary_colors">
-        <item>@color/red_600</item>
-        <item>@color/deep_purple_600</item>
-        <item>@color/light_blue_600</item>
-        <item>@color/green_600</item>
-        <item>@color/yellow_600</item>
-        <item>@color/deep_orange_600</item>
-        <item>@color/blue_grey_600</item>
-        <item>@color/pink_600</item>
-        <item>@color/indigo_600</item>
-        <item>@color/cyan_600</item>
-        <item>@color/light_green_600</item>
-        <item>@color/amber_600</item>
-        <item>@color/brown_600</item>
-        <item>@color/purple_600</item>
-        <item>@color/blue_600</item>
-        <item>@color/teal_600</item>
-        <item>@color/lime_600</item>
-        <item>@color/orange_600</item>
-        <item>@color/grey_600</item>
+        <item>@color/red_500</item>
+        <item>@color/deep_purple_500</item>
+        <item>@color/light_blue_500</item>
+        <item>@color/green_500</item>
+        <item>@color/yellow_500</item>
+        <item>@color/deep_orange_500</item>
+        <item>@color/blue_grey_500</item>
+        <item>@color/pink_500</item>
+        <item>@color/indigo_500</item>
+        <item>@color/cyan_500</item>
+        <item>@color/light_green_500</item>
+        <item>@color/amber_500</item>
+        <item>@color/brown_500</item>
+        <item>@color/purple_500</item>
+        <item>@color/blue_500</item>
+        <item>@color/teal_500</item>
+        <item>@color/lime_500</item>
+        <item>@color/orange_500</item>
+        <item>@color/grey_500</item>
     </integer-array>
 
     <integer-array name="dark_colors">
