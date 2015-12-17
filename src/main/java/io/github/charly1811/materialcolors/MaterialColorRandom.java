@@ -4,8 +4,7 @@ import android.content.Context;
 
 import java.util.Random;
 
-import cf.charleseugeneloubao.materialcolors.MaterialColor;
-import cf.charleseugeneloubao.materialcolors.R;
+import io.github.charly1811.materialcolors.R;
 
 /**
  * Copyright 2015 Charles-Eugene Loubao
@@ -13,6 +12,8 @@ import cf.charleseugeneloubao.materialcolors.R;
 public class MaterialColorRandom {
 
     private Random random = new Random();
+
+    private int[] allColors;
 
     private int[] primaryColors;
     private int[] darkColors;
