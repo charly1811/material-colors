@@ -7,8 +7,8 @@ All the material design colors in one place
 ### How to create MaterialColor
 A MaterialColor instance consist of a normal color and its dark variant
 ```
-int normal = light_blue_500;
-int dark = light_blue_700;
+int normal = R.color.light_blue_500;
+int dark = R.color.light_blue_700;
 MaterialColor lightBlue = new MaterialColor(normal,dark);
 ```
 
