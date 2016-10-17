@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Colors for UI elements from the material design spec website -->
+
+    <color name="window_background_dark">@color/grey_850</color>
+    <color name="dialog_background_dark">@color/grey_800</color>
+    <color name="text_primary_dark">@android:color/primary_text_dark</color>
+    <color name="text_secondary_dark">@android:color/secondary_text_dark</color>
+
+    <color name="window_background_light">@color/grey_50</color>
+    <color name="dialog_background_light">@color/white</color>
+    <color name="text_primary_light">@android:color/primary_text_light</color>
+    <color name="text_secondary_light">@android:color/secondary_text_light</color>
+
     <integer-array name="primary_colors">
         <item>@color/red_500</item>
         <item>@color/deep_purple_500</item>
@@ -312,6 +324,7 @@
     <color name="grey_600">#757575</color>
     <color name="grey_700">#616161</color>
     <color name="grey_800">#424242</color>
+    <color name="grey_850">#303030</color>
     <color name="grey_900">#212121</color>
 
     <color name="black">#000000</color>
